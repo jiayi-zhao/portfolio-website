@@ -1,0 +1,107 @@
+*, :after, :before {
+  box-sizing: inherit;
+}
+
+.NavBar {
+  /*position: fixed;*/
+  /*top: 0;*/
+  /*left: 0;*/
+  /*right: 0;*/
+  /*padding: 40px 60px 0;*/
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #fff;
+}
+
+.NavBarContainer {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 3vh;
+  background-color: white;
+}
+
+.NavBarContainer .menu{
+  display: flex;
+  justify-content: space-between;
+}
+
+/*.menuLink:not(:first-child) {
+  margin: 0 0 0 100px;
+}*/
+
+.menuLink {
+  font-family: Roboto;
+  letter-spacing: 1px;
+  font-weight: 450;
+  cursor: pointer;
+  pointer-events: all;
+  text-decoration: none;
+  font-size: 18px;
+  text-cursor: pointer;
+  pointer-events: all;
+  color: #000;
+  /*position: relative;*/
+}
+
+.menuLink p{
+  display: flex;
+  position: relative;
+}
+
+@keyframes hover-in {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@keyframes hover-out {
+  from {
+    transform: scaleX(1);
+  }
+  to {
+    transform: scaleX(0);
+  }
+}
+
+.menuLink p:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: -4px;
+  height: 3px;
+  background-color: #3271A7;
+
+  animation-name: hover-out;
+  animation-duration: 0.3s;
+  transform-origin: right;
+  transform: scaleX(0);
+}
+
+/* .navbar .menu p:hover {
+  color: #3271A7;
+} */
+
+.menuLink p:hover:after {
+  animation-name: hover-in;
+  animation-duration: 0.3s;
+  animation-fill-mode: forwards;
+  transform-origin: left;
+}
+
+
+.logo {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: Maven Pro;
+  font-size: 36px;
+  font-weight: 450;
+  letter-spacing: 3px;
+}

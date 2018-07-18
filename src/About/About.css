@@ -1,0 +1,41 @@
+.aboutIntroText {
+	font-family: 'Roboto';
+	font-size: 18px;
+    letter-spacing: 1.6px;
+    line-height: 35px;
+}
+
+.emailIntroText {
+	color: #6E6E6E;
+}
+
+.aboutLogos:not(:first-child) {
+  margin-left: 8px;
+}
+
+.aboutTitles {
+	font-family: 'Maven Pro';
+	font-size: 36px;
+	letter-spacing: 3.32px;
+	font-weight: 450;
+	color: #6F6F6F;
+}
+
+.experienceTitle{
+	font-family: 'Roboto';
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.experienceTime{
+	font-family: 'Roboto';
+	font-size: 18px;
+	font-style: italic;
+}
+
+.experienceDescription {
+	font-family: 'Roboto';
+	font-size: 18px;
+	letter-spacing: 1.6px;
+    line-height: 35px;
+}

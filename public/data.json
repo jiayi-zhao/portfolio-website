@@ -1,0 +1,21 @@
+{
+	"description": "Hello, I'm Jiayi. I'm a rising junior at Carnegie Mellon University, studying Information Systems, Human Computer Interaction and Computer Science. I'm an experienced Full Stack Developer and Product Engineer, and also skilled in UI/UX design. I'm interested in all fields in technology and excited to explore all opportunities beyond engineering.",
+	"update": "I'm currently a summer software engineer intern at McKinsey & Company in New York City.",
+	"experiences": [
+		{
+			"title": "McKinsey & Company | Software Engineer Intern",
+			"timePlace": "June 2018 - Present | New York, NY",
+			"description": "Develop applications and work close with product managers and designers to support solutions. Develop internal slack applications to improve work efficiency and maintain information security."
+		},
+		{
+			"title": "15-213 Intro to Computer Systems | TA",
+			"timePlace": "January 2018 - Present | Pittsburgh, PA",
+			"description": "Lead recitations and hold office hours. Grade homework assignments (correctness & styles). Create and review exam questions. Develop video-slide viewer system for students."
+		},
+		{
+			"title": "Xiaomi Inc. | Software Engineer Intern",
+			"timePlace": "May 2017 - August 2017 | Beijing, China",
+			"description": "Created a url information analysis system and multiple vehicles’ data mining modules. Wrote technical documentation on Xiaomi’s wiki."
+		}
+	]
+}
