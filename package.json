@@ -2,6 +2,7 @@
   "name": "webapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jiayi-zhao.github.io/portfolio-website/",
   "dependencies": {
     "@material-ui/core": "^1.4.0",
     "react": "^16.4.1",
