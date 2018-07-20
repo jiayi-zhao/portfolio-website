@@ -1,0 +1,70 @@
+{
+	"name": "photography",
+	"title": "Photography",
+	"description": "Hello, I'm Jiayi. I'm a rising junior at Carnegie Mellon University, studying Information Systems, Human Computer Interaction and Computer Science. I'm an experienced Full Stack Developer and Product Engineer, and also skilled in UI/UX design. I'm interested in all fields in technology and excited to explore all opportunities beyond engineering.",
+	"role": "Photographer",
+	"tags": ["Photography", "Photoshop"],
+	"type": "personal",
+	"content": [
+		{
+			"name": "lighting",
+			"pics": [
+				{
+					"name": "bear",
+				 	"source": "/images/projects/photography/bear.jpg"
+				}
+			]
+		},
+		{
+			"name": "portrait",
+			"pics": [
+				{
+					"name": "Roomate",
+					"source": "/images/projects/photography/gyueun_smile.jpg"
+				}
+			]
+		},
+		{
+			"name": "lighting in the park",
+			"pics": [
+				{
+					"name": "Statute in Schenley Park",
+					"source": "/images/projects/photography/IMG_0825.jpg"
+				},
+				{
+					"name": "Tree Stem in Schenley Park",
+					"source": "/images/projects/photography/IMG_0867.jpg"
+				},
+				{
+					"name": "Leaves in Schenley Park",
+					"source": "/images/projects/photography/IMG_0889.jpg"
+				},
+				{
+					"name": "Leaves 2 in Schenley Park",
+					"source": "/images/projects/photography/IMG_0905.jpg"
+				},
+				{
+					"name": "Tree Stem 2 in Schenley Park",
+					"source": "/images/projects/photography/IMG_0907.jpg"
+				}
+			]
+		},
+		{
+			"name": "friends in early september 2017",
+			"pics": [
+				{
+					"name": "Isabelle & Sarah in front of Mellon Institute",
+					"source": "/images/projects/photography/IMG_3538.jpg"
+				},
+				{
+					"name": "Isabelle & Sarah in front of Mellon Institute 2",
+					"source": "/images/projects/photography/IMG_3572_edited.png"
+				},
+				{
+					"name": "Sarah in UPitt",
+					"source": "/images/projects/photography/IMG_3625_edited.png"
+				}
+			]
+		}
+	]
+}
