@@ -8,6 +8,8 @@ import registerServiceWorker from './registerServiceWorker';
 
 import Home from './Home/Home';
 import About from './About/About';
+import Work from './Work/Work';
+import WorkDetail from './WorkDetail/WorkDetail';
 
 ReactDOM.render(
   <BrowserRouter>
@@ -15,6 +17,9 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/" component={Home} />
       <Route path="/about" component={About} />
+      <Route exact path="/work" component={Work} />
+      <Route path="/work/:id" component={WorkDetail} />
+
       {/*<Route path="/resume" component={Resume} />*/}
 {/*      <Route exact path="/" component={Home} />
       <Route path="/about" component={About} />

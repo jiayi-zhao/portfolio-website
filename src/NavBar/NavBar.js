@@ -12,7 +12,7 @@ class NavBar extends Component {
   render() {
 
     return (
-      <Grid container spacing={8} justify='center' className='NavBarContainer'>
+      <Grid container spacing={8} justify='center' className='NavBarContainer' style={{ zIndex: '100'}}>
         <Grid item xs={10}>
           <Grid container spacing={8} alignItems='center'>
             <Grid item xs={6}>

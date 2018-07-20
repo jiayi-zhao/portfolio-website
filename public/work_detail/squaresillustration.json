@@ -1,0 +1,383 @@
+{
+	"name": "squaresillustration",
+	"title": "Squares Illustration Project",
+	"description": "CDF project 2 is a project with 5 final pieces of artwork using squares, spaces and an additional color to illustrate 2 pairs of contradicting words as well as a figure ground under the Gestalt design principles. The given 3 pairs of words are Tension & Playful, Compact & Boundless, Rhythmic & Erratic. Each word and the figure ground should be represented by a 6.5 x 6.5 inches canvas with squares. The project requires students to explore the usage of objects and spaces while using the Gestalt principles.",
+	"role": "Designer",
+	"tags": ["Design", "Communication Design", "Illustrator"],
+	"type": "design",
+	"content": [
+		{
+			"type": "title",
+			"text": "Tension"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Tension Paper Drafts",
+							"source": "/images/projects/squaresillustration/tension_paper_draft.JPG"
+						}
+					],
+					"caption": "“Tension” Sketches"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Originally, I was planning to illustrate “tension” with the idea of “being stretched or strained”; however, the idea seemed to be difficult to implement with squares for me, so, instead of using the word's literal definition, I chose the word's extended meaning: a strained relationship between individuals or groups. At the same time, I also used the idea of protruding objects that are different from others to enhance the concept of tension. In the sketches, I mainly adopted the proximity and continuity principles to create the sense of grouped objects and the contrast of the protruding object with the continuous pattern."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Tension First draft 1",
+							"source": "/images/projects/squaresillustration/tension_first_draft_1.jpeg"
+						},
+						{
+							"name": "Tension First Draft 2",
+							"source": "/images/projects/squaresillustration/tension_first_draft_2.jpeg"
+						}
+					],
+					"caption": "First drafts of “Tension” with illustrator"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "With Adobe illustrator, I selected two of my original sketches that I believe represent the word “tension” the best. At this stage, I only focused on recreating the pieces based on my sketches. The digital outcome of the first one was not as good as I expected based on the marker drawing. The squares seem to be too crowded and give an impression of more messiness than tension. I tried to decrease the amount of surrounding squares but then the image seems to be too “eased” to represent tension. I then chose the second design to eventually represent the word “tension”."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 12,
+					"images": [
+						{
+							"name": "“Tension” Variation 1",
+							"source": "/images/projects/squaresillustration/tension_second_draft_1.jpeg"
+						},
+						{
+							"name": "“Tension” Variation 2",
+							"source": "/images/projects/squaresillustration/tension_second_draft_2.jpeg"
+						},
+						{
+							"name": "“Tension” Variation 3",
+							"source": "/images/projects/squaresillustration/tension_second_draft_3.jpeg"
+						}
+					],
+					"caption": "Variations of “Tension”"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "During the finalization of “Tension”, I changed the size and angle of the protruding square. The original size was too small to represent the idea of a sequential list of squares so I changed it to a larger size and lessened the angle. However, the modified version (pic 1) was not as obvious as the original version. I began to play around with color. I chose the protruding square to color, as the color can bring the attention to the colored subject, which in this case can help emphasize the difference of the oblique square to the parallel ones. Initially, I tried to use the orange color, but the resulted effect was too vibrant (pic 2). Then I tried the color red, which is what I ended up using, because red in some way also represents tension, with its fierce and powerful feature."
+		},
+		{
+			"type": "title",
+			"text": "Playful"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Playful Paper Drafts",
+							"source": "/images/projects/squaresillustration/playful_paper_draft.JPG"
+						}
+					],
+					"caption": "“Playful” Sketches"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "With “playful”, while I was sketching, I tended to include vibrant and rhythmic features in my sketches. I found it really hard to represent “playful” with squares initially since squares have clear boundaries which display a more rigid image. Thus, I included a lot of curves to decrease the visual effects of the squares’ edges and corners and increase the curvy and vibrant representation. In “playful”, I mainly used the continuity principle in order to make the audience follow the progress of the squares as of the squares are moving."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Playful First draft 1",
+							"source": "/images/projects/squaresillustration/playful_first_draft_1.jpeg"
+						},
+						{
+							"name": "Playful First Draft 2",
+							"source": "/images/projects/squaresillustration/playful_first_draft_2.jpeg"
+						}
+					],
+					"caption": "First drafts of “Playful” with illustrator"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Based on my sketches, I chose the above two to do the first digital drafts for “playful” with illustrator. Same with “tension”, I was only focusing on recreating the sketches. It was really hard for me to choose between these two images. Eventually, I abandoned the first design for the reason that the image itself may also be interpreted as “rhythmic” but in comparison, I would only think of “playful” looking at the second design."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Playful” Variation 1",
+							"source": "/images/projects/squaresillustration/playful_second_draft_1.jpeg"
+						},
+						{
+							"name": "“Playful” Variation 2",
+							"source": "/images/projects/squaresillustration/playful_second_draft_2.jpeg"
+						},
+						{
+							"name": "“Playful” Variation 3",
+							"source": "/images/projects/squaresillustration/playful_second_draft_3.jpeg"
+						}
+					]
+				},
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Playful” Variation 4",
+							"source": "/images/projects/squaresillustration/playful_second_draft_4.jpeg"
+						},
+						{
+							"name": "“Playful” Variation 5",
+							"source": "/images/projects/squaresillustration/playful_second_draft_5.jpeg"
+						}
+					],
+					"caption": "Variations of “Playful”"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Because of the color choice in “Tension”, I needed to include red in “Playful” as well. Originally, I planned to set the middle square, which was also the one that had contact with the base square (which serves as a slope), but the colored square brings all the attention on itself and along with the symmetric color theme (three black squares to the right and left of the middle square), and as a result, the overall image gave out an patterned and pre-designed feeling, contradicted to the idea of “playful”. Therefore, I chose the square next to to the middle square to color. With an instant look, the square brings the attention on itself but because of the asymmetric layout, audience will soon advert their attention to the middle one, which is also the start of the “jump”. The back and forth changing of attention makes the audience look at the overall “jump” process of the squares, which enhance the theme “playful”. Besides the color changing, I also modified the position of the base square as the original version does not really look like a square. By the end, I added a piece of the squares on the right edge of the canvas, as it uses the continuity principle that leaves the audience to imagine the rest of the path of the “jump”."
+		},
+		{
+			"type": "title",
+			"text": "Rhythmic"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Rhythmic Paper Drafts",
+							"source": "/images/projects/squaresillustration/rhythmic_paper_draft.JPG"
+						}
+					],
+					"caption": "“Rhythmic” Sketches"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "During the sketching for “rhythmic”, I used a lot of changes in sizes to create the idea of “rhythmic”. Compared to the previous two words, I did not use a lot of variations on the squares’ shapes and positions relative to spaces. As square is already a pretty regular shape, I just used the continuity and similarity principles to show the rhythm."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Rhythmic First draft 1",
+							"source": "/images/projects/squaresillustration/rhythmic_first_draft_1.jpeg"
+						},
+						{
+							"name": "Rhythmic First Draft 2",
+							"source": "/images/projects/squaresillustration/rhythmic_first_draft_2.jpeg"
+						}
+					],
+					"caption": "First drafts of “Rhythmic” with illustrator"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Just by looking at the sketches again, I instantly chose the two designs above to draw on illustrator as they showed a clearer order in the arrangement of the sqaures. However, just as the drawing process for “Tension”, the second design did not show a as good effect digitally as on paper. The first design, compared to the second one, showed more of a rhythm by leading the audience to move their eyes along with the smaller sizes of squares."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Rhythmic Final Draft",
+							"source": "/images/projects/squaresillustration/rhythmic_second_draft_1.jpeg"
+						}
+					],
+					"caption": "Final draft on “Rhythmic”"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "As I was recreating the first design on illustrator, I calculated carefully on the sizes of the squares along with the distances between each square. Each smaller size of the square is 80% in side length of the larger size. Thus, during the finalization of the design, I did not change the relative position of the squares. Instead, I only modified the overall ratio of the squares compared to the canvas. I made the squares smaller as them concentrating more into the center, helping the audience concentrating more on the rythm."
+		},
+		{
+			"type": "title",
+			"text": "Erratic"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Erratic Paper Drafts",
+							"source": "/images/projects/squaresillustration/erratic_paper_draft.JPG"
+						}
+					],
+					"caption": "“Erratic” Sketches"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "During the sketching for “erratic”, I did not put into much thoughts on the layouts of erratic. While sketching, I was just trying to achieve an overall view of randomness and messiness. I found that hard in the beginning for the reason that no matter how random the squares I believed I drew, they still follow a certain pattern. So I cut out some small squares and just throw them on top of the paper, to reach the “erratic” effect."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Rhythmic First draft 1",
+							"source": "/images/projects/squaresillustration/erratic_first_draft_1.jpeg"
+						},
+						{
+							"name": "Rhythmic First Draft 2",
+							"source": "/images/projects/squaresillustration/erratic_first_draft_2.jpeg"
+						}
+					],
+					"caption": "First drafts of “Erratic” with illustrator"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I chose the above two designs to further explore the relationship between spaces and objects to represent “erratic”. The first one is using the principle of continuity and the idea that the chain broke into some random pieces. The second design was just a recreation of the random squares I throw on the paper. I eventually chose the first design for its simple pattern and the contrast that brings out the “messiness”. The second design seems too purposeless compared to the first one."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Erratic” Second Draft 1",
+							"source": "/images/projects/squaresillustration/erratic_second_draft_1.jpeg"
+						},
+						{
+							"name": "“Erratic” Second Draft 2",
+							"source": "/images/projects/squaresillustration/erratic_second_draft_2.jpeg"
+						}
+					]
+				},
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Erratic” Second Draft 3",
+							"source": "/images/projects/squaresillustration/erratic_second_draft_3.jpeg"
+						},
+						{
+							"name": "“Erratic” Second Draft 3",
+							"source": "/images/projects/squaresillustration/erratic_second_draft_4.jpeg"
+						}
+					],
+					"caption": "Finalization of “Erratic”"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "During the finalization process of “erratic”, I firstly change the positions of the “erratic” parts of the image by enlarging the distances and modifying the angles to increase the contrast between messy and clean. However, the left part of the image seemed to be too parallel and too tidy that somehow it interfered the messiness displayed by the right side of the canvas. I still liked to keep the contrast of tidy and messy so I started to manipulated the small angles and distances of the squares on the left. Then in the end, it achieved an effect that the squares are getting more and more “erratic”."
+		},
+		{
+			"type": "title",
+			"text": "Compact & Boundless"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Compact” Paper Drafts",
+							"source": "/images/projects/squaresillustration/compact_paper_draft.JPG"
+						},
+						{
+							"name": "“Boundless” Paper Drafts",
+							"source": "/images/projects/squaresillustration/boundless_paper_draft.JPG"
+						}
+					],
+					"caption": "“Compact” & “Boundless” Sketches"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I did 5 sketches for each word but because I did not fully understand the meaning behind “compact” and “boundless”, I did not sketch out the best representation for these two words. The sketches seem rather generic and banal, which is also the reason why I did not choose this word pair for my final compositions."
+		},
+		{
+			"type": "title",
+			"text": "Figure / Ground"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Figure / Ground Final Drafts",
+							"source": "/images/projects/squaresillustration/figure_ground_final_draft.jpeg"
+						}
+					],
+					"caption": "Final draft for Figure / Ground"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Originally I planned to do a figure / ground illustration of a certain pattern, but then I found it really difficult to do it with squares. Then, instead of doing a complicated figure, I just chose to do the simplest thing and use the distances between squares to bring out the white stripes in contrast with the black background. But at the same time, the black squares can also be interpreted as the objects with white as the background. I found the result quite successful and did not do a second one."
+		}
+
+	]
+}

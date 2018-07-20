@@ -17,5 +17,48 @@
 			"timePlace": "May 2017 - August 2017 | Beijing, China",
 			"description": "Created a url information analysis system and multiple vehicles’ data mining modules. Wrote technical documentation on Xiaomi’s wiki."
 		}
-	]
+	],
+	"projects": {
+		"software": [
+			{
+				"name": "chesscamp",
+				"pic": "/images/projects/chesscamp/main.png",
+				"title": "Chess Camp Web Application",
+				"time": "May 2018 - Present",
+				"function": "Full Stack, Designer",
+				"introduction": "I establish data model and use cases based on case narratives and work in MVC and CRUD models. I use Rails for model and API and React for view. I design and prototype interface and interaction. I use unit testing and source control.",
+				"tags": ["rails", "api", "crud"]
+			},
+			{
+				"name": "chesscamp2",
+				"pic": "/images/projects/chesscamp/main.png",
+				"title": "Chess Camp Web Application",
+				"time": "May 2018 - Present",
+				"function": "Full Stack, Designer",
+				"introduction": "",
+				"tags": ["rails", "api", "crud"]
+			}
+		],
+		"design": [
+			{
+				"name": "squaresillustration",
+				"pic": "/images/projects/squaresillustration/tension_playful_final.png",
+				"title": "Squares Illustration Project",
+				"time": "January 2017",
+				"function": "Designer",
+				"introduction": "Squares illustration is a project with 5 final pieces of artwork using squares, spaces and an additional color to illustrate 2 pairs of contradicting words as well as a figure ground under the Gestalt design principles.",
+				"tags": ["Design", "Communication Design", "Illustrator"]
+			}
+		],
+		"personal": [
+			{
+				"name": "photography",
+				"pic": "/images/projects/photography/IMG_0825.jpg",
+				"title": "Photography",
+				"function": "Photographer",
+				"introduction": "I take photos sometimes for fun",
+				"tags": ["photography", "photoshop"]
+			}
+		]
+	}
 }

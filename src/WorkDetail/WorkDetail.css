@@ -1,0 +1,48 @@
+.workDetailIntroSecondary {
+	font-family: 'Open Sans';
+	font-size: 20px;
+	letter-spacing: 1.79px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #727272;
+}
+
+.workDetailIntroPrimary {
+	font-family: 'Roboto';
+	font-size: 18px;
+	/*letter-spacing: 1.79px;*/
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.workDetailTitle {
+	font-family: 'Open Sans';
+	font-size: 48px;
+	letter-spacing: 4.29px;
+	/*font-weight: 600;*/
+}
+
+.photographyImages {
+	max-height: 350px;
+	width: auto;
+	max-width: 80vw;
+}
+
+.contentSectionTitle {
+	font-family: 'Roboto';
+	font-size: 36px;
+	letter-spacing: 3.22px;
+	font-weight: 500;
+}
+
+.generalImages {
+	height: auto;
+	max-width: 100%;
+}
+
+.imageCaption {
+	font-family: 'Roboto';
+	font-size: 14px;
+	color: #A2A2A2;
+	font-weight: 300;
+}

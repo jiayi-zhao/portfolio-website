@@ -1,0 +1,42 @@
+.projectTitle {
+	font-family: 'Open Sans';
+	font-size: 36px;
+	letter-spacing: 3.22px;
+	font-weight: 650;
+}
+
+.projectTime {
+	font-family: 'Roboto';
+	font-size: 18px;
+	letter-spacing: 1.61px;
+	font-style: italic;
+}
+
+.projectText {
+	font-family: 'Roboto';
+	font-size: 18px;
+	/*letter-spacing: 1.61px;*/
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.projectRole {
+	font-family: 'Roboto';
+	font-size: 18px;
+	letter-spacing: 1.61px;
+}
+
+.projectTags {
+	font-family: 'Roboto';
+	font-size: 18px;
+	letter-spacing: 1.61px;
+	margin-right: 1vh;
+	text-transform: uppercase;
+}
+
+.projectDetailLink {
+	font-family: 'Roboto';
+	font-size: 18px;
+	letter-spacing: 1.61px;
+	color: #3271A7;
+}
