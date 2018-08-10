@@ -27,7 +27,7 @@
 				"time": "May 2018 - Present",
 				"function": "Full Stack, Designer",
 				"introduction": "I establish data model and use cases based on case narratives and work in MVC and CRUD models. I use Rails for model and API and React for view. I design and prototype interface and interaction. I use unit testing and source control.",
-				"tags": ["rails", "api", "crud"]
+				"tags": ["Rails", "API", "CRUD"]
 			},
 			{
 				"name": "chesscamp2",
@@ -36,18 +36,27 @@
 				"time": "May 2018 - Present",
 				"function": "Full Stack, Designer",
 				"introduction": "",
-				"tags": ["rails", "api", "crud"]
+				"tags": ["Rails", "API", "CRUD"]
 			}
 		],
 		"design": [
 			{
 				"name": "squaresillustration",
-				"pic": "/images/projects/squaresillustration/tension_playful_final.png",
+				"pic": "/images/projects/squaresillustration/tension_playful_final.jpeg",
 				"title": "Squares Illustration Project",
 				"time": "January 2017",
 				"function": "Designer",
 				"introduction": "Squares illustration is a project with 5 final pieces of artwork using squares, spaces and an additional color to illustrate 2 pairs of contradicting words as well as a figure ground under the Gestalt design principles.",
 				"tags": ["Design", "Communication Design", "Illustrator"]
+			},
+			{
+				"name": "typefacegaramond",
+				"pic": "/images/projects/typefacegaramond/main.png",
+				"title": "Type Specimen Poster (Garamond)",
+				"time": "February 2017",
+				"function": "Designer",
+				"introduction": "Type Specimen Poster is a project I've done individually to make a poster to reflect the characteristics of the typeface Garamond. I tried to discover both the breadth and depth of the project with several iterations as well as rounds of critiques from peers and instructors.",
+				"tags": ["Design", "Communication Design", "Illustrator", "Typography"]
 			}
 		],
 		"personal": [
@@ -57,7 +66,7 @@
 				"title": "Photography",
 				"function": "Photographer",
 				"introduction": "I take photos sometimes for fun",
-				"tags": ["photography", "photoshop"]
+				"tags": ["Photography", "Photoshop"]
 			}
 		]
 	}

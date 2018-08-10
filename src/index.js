@@ -12,7 +12,7 @@ import Work from './Work/Work';
 import WorkDetail from './WorkDetail/WorkDetail';
 
 ReactDOM.render(
-  <BrowserRouter basename={"https://jiayi-zhao.github.io/portfolio-website/"}>
+  <BrowserRouter >
   <App>
     <Switch>
       <Route exact path="/" component={Home} />

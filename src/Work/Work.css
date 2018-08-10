@@ -1,7 +1,7 @@
 .projectTitle {
 	font-family: 'Open Sans';
 	font-size: 36px;
-	letter-spacing: 3.22px;
+	/*letter-spacing: 3.22px;*/
 	font-weight: 650;
 }
 
@@ -29,9 +29,9 @@
 .projectTags {
 	font-family: 'Roboto';
 	font-size: 18px;
-	letter-spacing: 1.61px;
-	margin-right: 1vh;
-	text-transform: uppercase;
+	/*letter-spacing: 1.61px;*/
+	margin-right: 1.5vw;
+	/*text-transform: uppercase;*/
 }
 
 .projectDetailLink {

@@ -18,7 +18,7 @@
 .workDetailTitle {
 	font-family: 'Open Sans';
 	font-size: 48px;
-	letter-spacing: 4.29px;
+	/*letter-spacing: 4.29px;*/
 	/*font-weight: 600;*/
 }
 
@@ -31,7 +31,7 @@
 .contentSectionTitle {
 	font-family: 'Roboto';
 	font-size: 36px;
-	letter-spacing: 3.22px;
+	/*letter-spacing: 3.22px;*/
 	font-weight: 500;
 }
 

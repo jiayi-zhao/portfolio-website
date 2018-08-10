@@ -1,0 +1,667 @@
+{
+	"name": "typefacegaramond",
+	"title": "Type Specimen Poster (Garamond)",
+	"description": "Type Specimen Poster is a project I've done individually to make a poster to reflect the characteristics of the typeface Garamond. I tried to discover both the breadth and depth of the project with several iterations as well as rounds of critiques from peers and instructors.",
+	"role": "Designer",
+	"tags": ["Design", "Communication Design", "Illustrator", "Typography"],
+	"type": "design",
+	"content": [
+		{
+			"type": "title",
+			"text": "Typeface Research"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Garamond Typeface Research",
+							"source": "/images/projects/typefacegaramond/typeface_research.jpeg"
+						}
+					],
+					"caption": "Alphabet and Numbers typed with Garamond typeface"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Category: Serif\nClassification: Old-style\nDesigners: Claude Garamond & Jean Jannon"
+		},
+		{
+			"type": "text",
+			"text": "Garamond is a group of many old-style serif typefaces, originally those designed by Parisian craftsman Claude Garamond and other 16th century French engravers, and now many modern revivals. Though his name was written as ‘Garamont’ in his lifetime, the typefaces are generally spelled ‘Garamond’."
+		},
+		{
+			"type": "text",
+			"text": "Garamond worked as an engraver of punches, the masters used to stamp matrices, the moulds used to cast metal type. He worked in the tradition of what is now called old-style serif letter design, that produced letters with a relatively organic structure resembling handwriting with a pen but with a slightly more structured and upright design. Although Garamond himself remains considered an eminent figure in French printing of the sixteenth century, historical research over the last century has increasingly placed him in context as one artisan among several active at a time of rapid production of new typefaces in sixteenth-century France, operating within a pre-existing tradition defined by the work of printers of the preceding half-century, in particular Aldus Manutius and his punchcutter Francesco Griffo. Therefore, the term “Garamond” in modern use may be understood to mean typefaces based on the appearance of early modern French printing, not necessarily specifically Garamond’s work."
+		},
+		{
+			"type": "title",
+			"text": "Sketches and Brainstorming"
+		},
+		{
+			"type": "text",
+			"text": "I did in total of 5 pencil sketches for the poster."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Typeface Poster Paper Drafts",
+							"source": "/images/projects/typefacegaramond/typeface_paper_drafts.png"
+						}
+					],
+					"caption": "Pencil Sketches for the Poster"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "With the typeface research, I learnt that Garamond is one of the most classic and elegant typefaces. In the process of brainstorming, I tried to coordinate the information hierarchy as well as to show the theme of Garamond. In order to emphasize and highlight the typeface itself, I mainly used the letter “g” to represent Garamond and catch the audience’s attention since the letter “g” in style wise separates Garamond from other typefaces."
+		},
+		{
+			"type": "title",
+			"text": "Several Digital Drafts"
+		},
+		{
+			"type": "text",
+			"text": "The first pencil draft I did was a bit ineffective in showing the typeface. As Garamond is not a famous figure and his headshot may confuse the audience about what it actually is. I found the second one was a bit boring compared to the others. So I chose the last three ideas from the pencil sketches to do the digital drafts on illustrator."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Version 1 Draft 1",
+							"source": "/images/projects/typefacegaramond/BS-draft1_1.jpg"
+						},
+						{
+							"name": "Poster Version 1 Draft 2",
+							"source": "/images/projects/typefacegaramond/BS-draft1_2.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "For the third pencil sketch, I did an initial illustration of the pattern. I was playing around with the font sizes and having some letters italic to bring out a more vibrant theme. With a few adjustment of the spaces between the letters, I added the typeface creator, year created and a short description. At this point, I did not think much about the arrangement of the different elements on the draft. I was just trying to include all the required elements on the poster and to show the typeface itself by using different font sizes and the formality of the typeface: regular, italic and bold."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Version 1 Draft 3",
+							"source": "/images/projects/typefacegaramond/BS-draft1_3.jpg"
+						},
+						{
+							"name": "Poster Version 1 Draft 4",
+							"source": "/images/projects/typefacegaramond/BS-draft1_4.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Further, I added the the full character set on the poster. It took me a long time to figure out an ideal place to put the set. From the initial illustration, there was a decent amount of white space on the left to the “garamond” pattern. Initially, I tried to place the letters vertically so that the audience needs to tilt their head a bit to read but then instantly I abandoned this idea since all other elements on the poster are horizontally placed and it would bring too much attention to the character set which can cause a hierarchy confusion. Because of the narrow space, I had to then put only several characters per line on the left side of “garamond”. In order to match the pattern that for “garamond”, and since the left side is more clean than the right side, I had the characters aligned to the right to have a similar effect. Then, I changed the placement of “Claude Garamond” and the time to one line and placed it in the top middle to have an effect that the elements below are the content of the title line. Then I adjusted the spaces among the elements and made them more concise."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Version 1 Draft 5",
+							"source": "/images/projects/typefacegaramond/BS-draft1_5.jpg"
+						},
+						{
+							"name": "Poster Version 1 Draft 6",
+							"source": "/images/projects/typefacegaramond/BS-draft1_6.jpg"
+						}
+					],
+					"caption": "Digital drafts of the third pencil sketch with colors"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I found black and white colors are a bit boring so I had two color schemes planned. One was coloring the “garamond” with dark red, which is a color representing maturity and decency. With a slight changed of the background color to bright grey, the overall poster displays a sense of elegance. The second idea was to use blue and black to show the elegancy. Instead of coloring all the letters in “garamond”, I only did the letter “g” which brought out a contrast between “g” and the rest of the letters. It not only emphasizes the letter g, but also has a contrast that brings the audience attention to the rest of the letters which also demonstrate the characteristics of Garamond with the variance of all forms of the font."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Version 2 Draft 1",
+							"source": "/images/projects/typefacegaramond/BS-draft2_1.jpg"
+						},
+						{
+							"name": "Poster Version 2 Draft 2",
+							"source": "/images/projects/typefacegaramond/BS-draft2_2.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "The second idea was from the fourth pencil sketch. However, in here, instead of having an upside down version of Garamond below the paragraph, I put the typeface creator and the year created below the paragraph of introduction. This idea was really simple and emphasized the information hierarchy effectively, with the most important as the typeface name, the second most important as the creator and year created and the third most important information as the short introduction paragraph. The letter “g” here functions as a symbol of the typeface."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Version 2 Draft 3",
+							"source": "/images/projects/typefacegaramond/BS-draft2_3.jpg"
+						},
+						{
+							"name": "Poster Version 2 Draft 4",
+							"source": "/images/projects/typefacegaramond/BS-draft2_4.jpg"
+						}
+					],
+					"caption": "Final digital drafts of the fourth pencil sketch"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Without interfering the emphasis on the letter “g” in the middle, in order to show the characters set, I simply put all the letters into a smaller font and place them around the letter “g” with the color of dark grey. With the background of all the letters and numbers, the poster transformed from a text-based hierarchal poster to a unity of information with patterns decorated. It added an artistic flavor to the original boring texts. I also tried to play with the color and I used black and light blue to emphasize the three most important pieces of information and display the elegant theme of the typeface as well."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster First Delivery Draft 1",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_1.jpg"
+						},
+						{
+							"name": "Poster First Delivery Draft 2",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_2.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "The third idea is from the fifth pencil sketch. While I was placing “Q” on the poster, I had to put it more to the right compared to the original sketch considering there could be texts inside. Because of the angle of the tail of Q, I had to arrange the angles and positions of “garamond” by letters to fit the curvy line. Because “garamond” position is on top of another letter, it was certain by the time that they had to be in 2 colors. With the previous posters and the color experimentation, I decided to use the blue in contrast to the black. Since the line itself was curvy, the regular form of garamond as a result did not fit the curvy theme as the left picture above shows. I then changed all the letters into italic forms and rearranged the positions and angles to fit the Q."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Poster First Delivery Draft 3",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_3.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Originally, I wanted to put the introduction paragraph in the “&” symbol but I found out that the space was too small and can barely fit in 50 words. Thus, I moved the introduction paragraph to the inside space of Q. Since the space inside Q is pretty closed off, a paragraph without the clean edge can seem pretty messy so I manipulated the small spaces in between the letters to have them perfectly align to both the left and right sides. Since the purpose of the poster is to briefly introduce a typeface to the audience, I thought it would be useful and convenient to show the different forms of the font and I included a set of the different forms with the letter A inside the inner space of “&”."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster First Delivery Draft 4",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_4.jpg"
+						},
+						{
+							"name": "Poster First Delivery Draft 5",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_5.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Since the poster was determined to have more colors than black and white, I decided to have a set color before doing any further steps for convenience. Because of the choice of the blue on the word “garamond”, I started to play with the coordination of the color blue, black and white. I tried to set the background as blue as the above left picture shows but then the overall effect gave me a really depressed, not lively feeling. I figured it was the heavy use of darker shade blue and black. Then I switched the colors and had the Q and & filled with light blue and unified all other elements on the poster with white."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Poster First Delivery Draft 6",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_6.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I still needed to add the character set on the poster. Since there were only spaces below the & symbol at this point, I had no choice but to include the characters set there. With most of the free spaces filled else where on the poster, the spaces here needed to be filled as well for the overall effect. Initially I just added the characters set based on the shape of the empty spaces but with a grey color filled to not compete with the other more important elements for attention. I did not like the result because the contrast of strictly ordered characters set and the curvy flow of the rest of the poster."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster First Delivery Draft 7",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_7.jpg"
+						},
+						{
+							"name": "Poster First Delivery Draft 8",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_8.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I started to play with the arrangement of the characters set and accidentally found out that I could just fit an A and hide some of its parts with the & symbol. Especially after changing the color of A into the same color as the & symbol, I noticed how the letter fits into the whole picture and brings out a more patterned visual to the whole poster."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster First Delivery Draft 9",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_9.jpg"
+						},
+						{
+							"name": "Poster First Delivery Draft 10",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_10.jpg"
+						}
+					],
+					"caption": "Final steps of the digital draft of the fifth pencil sketch"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I started to fill in more letters into the space. During the process, I made sure that there was no award parts that stick out of nowhere and tried my best to combine each individual letter with the rest of the letters."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 12,
+					"images": [
+						{
+							"name": "Poster Version 1 Draft 5",
+							"source": "/images/projects/typefacegaramond/BS-draft1_5.jpg"
+						},
+						{
+							"name": "Poster Version 2 Draft 4",
+							"source": "/images/projects/typefacegaramond/BS-draft2_4.jpg"
+						},
+						{
+							"name": "Poster First Delivery Draft 10",
+							"source": "/images/projects/typefacegaramond/BS-first_delivery_10.jpg"
+						}
+					],
+					"caption": "Final steps of the digital draft of the fifth pencil sketch"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Among the three digital drafts, I liked the third one the most because of its unique and interesting arrangement of the letters in the bottom left corner. Compared to the third one, the other two seemed more generic, even though I really liked the color choices for the first and second drafts."
+		},
+		{
+			"type": "title",
+			"text": "Mini-crit & After Thoughts"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 8,
+					"images": [
+						{
+							"name": "Mini Crit Reviews",
+							"source": "/images/projects/typefacegaramond/mini_crit_comments.JPG"
+						}
+					],
+					"caption": "Classmates’ review of my poster"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I brought the printed version of the third digital draft to the mini-crit and above are the responses I received from my classmates. Overall, the majority of the feedback showed positive attitude towards my usage of letters arrangement in the bottom left corner but a lot showed concerns of my information hierarchy and pointed out that the typeface name is not emphasized enough and one may confuse the forms set of As as more important than “garamond”."
+		},
+		{
+			"type": "text",
+			"text": "Since I needed to include the entire characters set in the poster, my second and third ideas could not really be used since they do not have enough spaces for the entire set. I thought about using the first one and edited it further for the final draft but then I believed the first draft is too generic and I was not completely satisfied with the placement of the characters set. I decide to start over and redesign for the final draft."
+		},
+		{
+			"type": "title",
+			"text": "Final Digital Drafts"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 12,
+					"images": [
+						{
+							"name": "Poster Final Draft 1",
+							"source": "/images/projects/typefacegaramond/final_draft_1.jpg"
+						},
+						{
+							"name": "Poster Final Draft 2",
+							"source": "/images/projects/typefacegaramond/final_draft_2.jpg"
+						},
+						{
+							"name": "Poster Final Draft 3",
+							"source": "/images/projects/typefacegaramond/final_draft_3.jpg"
+						}
+					],
+					"caption": "Initial drafts of the idea"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I went back to my second pencil sketch and started to play around with the arrangement of the letters. Even though the “G” is half cropped by the edge, but based on the Gestalt principles, it was not a problem for people to identify the letter. By placing Claude and “aramond” on the left and right sides of the “G”, not only the name of the typeface itself but also the designer of the typeface were emphasized. It was a struggle for me to put the characters set at this point because the rest of the elements were placed so concisely on the poster, the characters set might mess up with the cleanness of the overall effect. Since the space on the right to “G” was the only free space on the poster, I tried to place the characters set there but it was not successful. No matter how I tried to form the set, it just didn’t seem to fit into the rest of the poster."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Text Comparison",
+							"source": "/images/projects/typefacegaramond/text_comparison.png"
+						}
+					],
+					"caption": "Same paragraph with and without manipulation"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "At the same time, I also focused on the text display. Since the text was placed on top of the bar in G, it would look cleaner and more concise with the clean edges. I adjusted the spaces in between letters and words to manually make each line aligned to both the left and right sides. Besides horizontal spaces, I also adjusted the spaces vertically to have the paragraph filled the space on top of the G bar naturally."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Letter Processing 1",
+							"source": "/images/projects/typefacegaramond/letter_process_1.png"
+						},
+						{
+							"name": "Letter Processing 2",
+							"source": "/images/projects/typefacegaramond/letter_process_2.png"
+						},
+						{
+							"name": "Letter Processing 3",
+							"source": "/images/projects/typefacegaramond/letter_process_3.png"
+						}
+					]
+				},
+				{
+					"col": 1,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Letter Processing 4",
+							"source": "/images/projects/typefacegaramond/letter_process_4.png"
+						}
+					],
+					"caption": "Process of filling out “Garamond”"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Since I still needed to include the characters set in the poster, I began to think creatively like I did in the poster I did for mini-crit. Instead of writing out “Garamond”, I thought of the idea of using all the characters to form the shape of the letters. I filled out each letter by having a background of the letter and strategically putting white small characters in the letter. This was one of the hardest thing I did for the poster because I had to think about what character to put in to fit the edges of the letter. By doing it line by line, I eventually finished the whole word using just characters."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Final Draft 4",
+							"source": "/images/projects/typefacegaramond/final_draft_4.jpg"
+						},
+						{
+							"name": "Poster Final Draft 5",
+							"source": "/images/projects/typefacegaramond/final_draft_5.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "With the change from solid letters to the ones that are made from smaller characters, the original placement of “garamond” would not work because the letters are so small. It wouldn’t even be visible of all the small characters if I put it into such a small size. Therefore, I had to make “Garamond” at least the size that the audience can identify that the letters are made up from small characters. I then placed it vertically to the right of the larger G."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 12,
+					"images": [
+						{
+							"name": "Poster Final Draft 6",
+							"source": "/images/projects/typefacegaramond/final_draft_6.jpg"
+						},
+						{
+							"name": "Poster Final Draft 7",
+							"source": "/images/projects/typefacegaramond/final_draft_7.jpg"
+						},
+						{
+							"name": "Poster Final Draft 8",
+							"source": "/images/projects/typefacegaramond/final_draft_8.jpg"
+						}
+					],
+					"caption": "Different placement of the designer and date"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "The poster still needed two more elements: the designer and the year the typeface was created. I tried to place them in the bottom middle as well as to experiment on placing Claude’s name on above the G bar. Both did not work out quite well. The first one brought too much attention to the bottom that it was hard to pull the audience’s attention back to the middle. The second one just created unnecessary tension between the name and the introduction paragraph. Besides placing the name and year, I also noticed that since “Garamond” is not solid, overall, the word seems to be put on some low opacity effect that it is not obvious and highlighted enough. Compared to the solid G on its left, the word “Garamond” did not stand out as the most important thing on the poster. I tried to lower the capacity of the text, but it did not work."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 3,
+					"xs": 12,
+					"images": [
+						{
+							"name": "Poster Final Draft 9",
+							"source": "/images/projects/typefacegaramond/final_draft_9.jpg"
+						},
+						{
+							"name": "Poster Final Draft 10",
+							"source": "/images/projects/typefacegaramond/final_draft_10.jpg"
+						},
+						{
+							"name": "Poster Final Draft 11",
+							"source": "/images/projects/typefacegaramond/final_draft_11.jpg"
+						}
+					],
+					"caption": "New placement of “GARAMONT”"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I figured the problem might be “Garamond” being positioned vertically that the audience already needed to tilt their head to read the word, the low opacity surely didn’t help. I tried to put “Garamond” horizontally, and I was struggling a little bit initially on where exactly I should put the letters. I tried to lower the opacity of the big G so then the word could be apparent but it was even less obvious than the vertical placement. Then my friend suggested me to put a bar behind the word to hide the part of the big G. Since by Gestalt principles, our visual will not be influenced by just a small missing part of the whole pattern. With the bar, the audience can still identify the large letter as “G”. I tried what my friend suggested and the result was obvious, the word “Garamond” was fairly emphasized and there was no issue with the background “G” as well."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Final Draft 12",
+							"source": "/images/projects/typefacegaramond/final_draft_12.jpg"
+						},
+						{
+							"name": "Poster Final Draft 13",
+							"source": "/images/projects/typefacegaramond/final_draft_13.jpg"
+						}
+					]
+				},
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Final Draft 14",
+							"source": "/images/projects/typefacegaramond/final_draft_14.jpg"
+						},
+						{
+							"name": "Poster Final Draft 15",
+							"source": "/images/projects/typefacegaramond/final_draft_15.jpg"
+						}
+					],
+					"caption": "Different ideas of the placement of the designer and the date"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Since the information of the designer and the year still needed to be added, I made four different drafts with the four different placement of the information. The third version with the information on the top right corner in two lines turned out the be the most effective one. The information was divided into two lines which was very clear and less confusing than the one line version. With its place on the top right corner, it lessen the sense of empty space on the right to the “G”. I also wanted to use the fourth version, but the sudden change to vertical placement makes the information unfit to the rest of the poster."
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Final Draft 16",
+							"source": "/images/projects/typefacegaramond/final_draft_16.jpg"
+						},
+						{
+							"name": "Poster Final Draft 17",
+							"source": "/images/projects/typefacegaramond/final_draft_17.jpg"
+						}
+					]
+				},
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Final Draft 18",
+							"source": "/images/projects/typefacegaramond/final_draft_18.jpg"
+						},
+						{
+							"name": "Poster Final Draft 19",
+							"source": "/images/projects/typefacegaramond/final_draft_19.jpg"
+						}
+					],
+					"caption": "Different color schemes for the poster"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "Even with the elements all nicely placed, the same problem from before still occurred. The typeface name “Garamond” was not prominent enough. I tried to lower the opacity of “G” and the introduction paragraph, the result was not ideal. Not only did “Garamond” not stand out, the overall image was brought a non-vibrant effect as shown in the first picture above. With the experience in using the color contrast of blue, black and white, I started to experiment on adding the color blue in the poster to bring out “Garamond” or lessen the high contrast of the letter G. The usage of darker blue was not effective as it brought the poster a sense of sadness as shown in the second picture above. It was also not effective to use the color on the name “Garamond” itself and other highlighting information. It was just too weird to look at. Then I started to use lighter blue and the fourth picture above was a successful usage of blue, with not only lessen the high contrast of the letter G had with the background but also brings out the typeface name Garamond."
+		},
+		{
+			"type": "title",
+			"text": "Final Composition"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 2,
+					"xs": 10,
+					"images": [
+						{
+							"name": "Poster Final Draft 21",
+							"source": "/images/projects/typefacegaramond/final_draft_20.jpg"
+						},
+						{
+							"name": "Poster Final Draft 20",
+							"source": "/images/projects/typefacegaramond/final_draft_21.jpg"
+						}
+					],
+					"caption": "Final draft for the crit and the revised version after the crit"
+				}
+			]
+		},
+		{
+			"type": "text",
+			"text": "I slightly changed the background color from black to dark grey for the final crit as grey fits more with the light blue and shows less contrast which will not compete with the actual information for attention. At the same time, the combination of dark grey and light blue displays a sense of elegance, which is also the characteristic of Garamond."
+		},
+		{
+			"type": "text",
+			"text": "During the final crit, Kaylee pointed out that with everything else perfectly aligned and placed, “Claude Garamond” and “1500s” on the top right did not really fit how other elements all have a relationship with each other. Placing these two pieces of information had always been my struggle throughout the process of making this poster, in both the beginning process and the end furnishing process. After the crit, I tried to look through all my drafts before and find some inspiration. I noticed in the beginning of composing the final draft, I used the fact that the last name of the designer is also the typeface name to save space. I then tried to do the same on my final piece. Aligning “Claude” to the left of “Garamond” and 1500s to the right of it, the revised version shows more of a interrelationship of all the elements in the poster than the previous version."
+		},
+		{
+			"type": "title",
+			"text": "Closing Thoughts"
+		},
+		{
+			"type": "text",
+			"text": "The heavy emphasis on the importance of hierarchy during the class has helped me think more about the importance of information and the effective display of information throughout this project. I’ve thought more about whether a design is communicative and effective enough to carry out a message than just strictly designing something that looks pretty. Throughout the process, as I was doing any step, I thought about how the audience will view this arrangement, what will the attention be attracted to first and what will be the second and how the eyes of the audience will move along the poster with the arrangement of spaces, patterns and colors."
+		}
+	]
+}

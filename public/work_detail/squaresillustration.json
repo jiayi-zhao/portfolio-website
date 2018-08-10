@@ -366,7 +366,7 @@
 					"xs": 8,
 					"images": [
 						{
-							"name": "Figure / Ground Final Drafts",
+							"name": "Figure / Ground Final Draft",
 							"source": "/images/projects/squaresillustration/figure_ground_final_draft.jpeg"
 						}
 					],
@@ -377,7 +377,66 @@
 		{
 			"type": "text",
 			"text": "Originally I planned to do a figure / ground illustration of a certain pattern, but then I found it really difficult to do it with squares. Then, instead of doing a complicated figure, I just chose to do the simplest thing and use the distances between squares to bring out the white stripes in contrast with the black background. But at the same time, the black squares can also be interpreted as the objects with white as the background. I found the result quite successful and did not do a second one."
+		},
+		{
+			"type": "title",
+			"text": "Final Compositions"
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Tension & Playful” Final Draft",
+							"source": "/images/projects/squaresillustration/tension_playful_final.jpeg"
+						}
+					],
+					"caption": "Tension & Playful"
+				}
+			]
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Rhythmic & Erratic” Final Draft",
+							"source": "/images/projects/squaresillustration/rhythmic_erratic_final.jpeg"
+						}
+					],
+					"caption": "Rhythmic & Erratic"
+				}
+			]
+		},
+		{
+			"type": "image",
+			"imageContainers": [
+				{
+					"col": 1,
+					"xs": 10,
+					"images": [
+						{
+							"name": "“Figure / Ground” Final Draft",
+							"source": "/images/projects/squaresillustration/figure_ground_final.jpeg"
+						}
+					],
+					"caption": "Figure / Ground"
+				}
+			]
+		},
+		{
+			"type": "title",
+			"text": "Closing Thoughts"
+		},
+		{
+			"type": "text",
+			"text": "The practice of using spaces and subjects to illustrate concepts has helped me think more about representation and effective communication deign. It made me actively think of how the audience will react to a design and whether such work can effectively carry out the message. Though only using squares, I can still discover the relationship between spaces and color contrasts. In the future design work, I will definitely think more about the function of a design and whether it’s meaningful or not."
 		}
-
 	]
 }
